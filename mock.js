@@ -3,7 +3,7 @@ module.exports = {
         "success": {
             "status": 200,
             "perfil": "A",
-            "nit": "550055-023",
+            "nit": "900800700-1",
             "nombre_empresa": "Movistar TIME"
         },
         "failed_500": {
@@ -19,7 +19,7 @@ module.exports = {
         "success": {
             "status": 200,
             "perfil": "B",
-            "nit": "5500222-321",
+            "nit": "900800700-1",
             "nombre_empresa": "Movistar SELU"
         },
         "failed_500": {
