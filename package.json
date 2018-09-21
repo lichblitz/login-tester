@@ -7,7 +7,7 @@
   "dependencies": {
     "express": "^4.16.3"
   },
-  "scripts": {
+  "script": {
     "start": "node app.js"
   },
   "main": "app.js"
