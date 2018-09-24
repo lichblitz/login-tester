@@ -7,7 +7,13 @@ const cors = require('cors')
 
 const app = express();
 
-app.use(cors());
+var corsOptions = {
+  origin: '*',
+  optionsSuccessStatus: 200,
+  methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+}
+
+app.use(cors(corsOptions));
 
 app.use(bodyParser.urlencoded({
   extended: true
