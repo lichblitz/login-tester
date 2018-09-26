@@ -13,6 +13,10 @@ module.exports = {
         "failed_404": {
             "status": 404,
             "message": "Usuario incorrecto o inexistente"
+        },
+        "failed_401": {
+            "status": 401,
+            "message": "Clave bloqueada"
         }
     },
     "SELU": {
@@ -29,6 +33,10 @@ module.exports = {
         "failed_404": {
             "status": 404,
             "message": "Usuario incorrecto o inexistente"
+        },
+        "failed_401": {
+            "status": 401,
+            "message": "Clave bloqueada"
         }
     }
 }
