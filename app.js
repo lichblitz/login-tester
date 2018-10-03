@@ -1,13 +1,15 @@
 const express = require('express');
 const bodyParser = require("body-parser");
-const mocks = require('./mock.js');
+const login = require('./routes/login');
+const perfil = require('./routes/perfil');
 const cors = require('cors')
 
 
 
+//SETUP AND CONFIG
 const app = express();
 
-var corsOptions = {
+const corsOptions = {
   origin: '*',
   allowHeaders: 'Content-type,Authorization',
   optionsSuccessStatus: 200,
@@ -15,42 +17,23 @@ var corsOptions = {
 }
 
 app.use(cors(corsOptions));
-
 app.use(bodyParser.urlencoded({
   extended: true
 }));
 app.use(bodyParser.json());
 
-app.get('/', function (req, res) {
 
+
+
+//ROUTES
+app.get('/', function (req, res) {
   res.send('Hello World!');
 });
 
-
-app.post('/login', bodyParser.json(), function (req, res) {
-
-
-  const body = req.body;
-  let resData;
+app.use('/login', bodyParser.json(), login);
+app.use('/perfil', bodyParser.json(), perfil);
 
 
-
-  if (body.attempts >= 5) {
-    resData = mocks[body.typeLogin]['failed_401'];
-  } else {
-
-    resData = mocks[body.typeLogin][body.typeRequest];
-  }
-
-  resData.request = body;
-  res.statusCode = resData.status;
-
-  console.log("resdata", resData);
-
-  res.json(resData);
-
-
-})
 
 var server_port = process.env.OPENSHIFT_NODEJS_PORT || 8080;
 var server_ip_address = process.env.OPENSHIFT_NODEJS_IP || '0.0.0.0';
