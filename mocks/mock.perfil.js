@@ -3,31 +3,31 @@ module.exports = {
     "result": [
         {
             "nombre_empresa": 'Movistar Morato',
-            "nit": '57353128-81',
+            "nit": '573531288-3',
             "numero_telefono": '',
             "perfil": 'A'
         },
         {
             "nombre_empresa": 'Carulla',
-            "nit": '83810230-81',
+            "nit": '838102308-5',
             "numero_telefono": '',
             "perfil": 'C'
         },
         {
             "nombre_empresa": 'Almacenes Éxito',
-            "nit": '25183291-81',
+            "nit": '251832918-3',
             "numero_telefono": '',
             "perfil": 'D'
         },
         {
             "nombre_empresa": 'everis',
-            "nit": '98128318-31',
+            "nit": '981283183-1',
             "numero_telefono": '',
             "perfil": 'AD'
         },
         {
             "nombre_empresa": 'Coca-cola',
-            "nit": '81283891-22',
+            "nit": '812838912-2',
             "numero_telefono": '',
             "perfil": 'CD'
         }
