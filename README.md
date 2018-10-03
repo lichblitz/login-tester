@@ -1,3 +1,1 @@
-# login-tester mock service
-
-Para probar el login time-selu
+# b2b mock service
