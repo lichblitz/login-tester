@@ -2,6 +2,8 @@ const express = require('express');
 const bodyParser = require("body-parser");
 const login = require('./routes/login');
 const perfil = require('./routes/perfil');
+const centros = require('./routes/centros');
+const puntos = require('./routes/puntos');
 const cors = require('cors')
 
 
@@ -13,7 +15,7 @@ const corsOptions = {
   origin: '*',
   allowHeaders: 'Content-type,Authorization',
   optionsSuccessStatus: 200,
-  methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+  methods: "GET,POST",
 }
 
 app.use(cors(corsOptions));
@@ -32,6 +34,8 @@ app.get('/', function (req, res) {
 
 app.use('/login', bodyParser.json(), login);
 app.use('/perfil', bodyParser.json(), perfil);
+app.use('/centros', bodyParser.json(), centros);
+app.use('/puntos-pago', bodyParser.json(), puntos);
 
 
 
