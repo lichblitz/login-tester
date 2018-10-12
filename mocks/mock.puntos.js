@@ -5,15 +5,15 @@ module.exports = {
         {
             "modifiedDate": "2017-05-31 17:04:46.937",
             "id": 90474002,
-            "category": "Otros Puntos de Pago",
+            "category": "Otros Puntos de Pago 2",
             "title": "UltraHuiLca",
             "hash": 1619667589,
             "url": "",
             "createDate": "2017-04-10 16:03:13.604"
         }, {
-            "modifiedDate": "2017-04-10 16:03:12.311",
+            "modifiedDate": "2017-04-10 16:03:12.311_3333444",
             "id": 90474007,
-            "category": "Otros Puntos de Pago",
+            "category": "banco",
             "title": "ServyPagos",
             "hash": 1504540396,
             "url": "",
@@ -21,7 +21,7 @@ module.exports = {
         }, {
             "modifiedDate": "2017-04-10 16:03:12.973",
             "id": 90474013,
-            "category": "Otros Puntos de Pago",
+            "category": "Otros Puntos de Pago 3",
             "title": "Todo Pago Express On Line",
             "hash": 1504541462,
             "url": "",
@@ -205,7 +205,7 @@ module.exports = {
         }, {
             "modifiedDate": "2017-04-10 16:02:55.423",
             "id": 90474493,
-            "category": "Pagos en línea",
+            "category": "Pagos",
             "title": "www.gnbsudameris.com.co",
             "hash": 1504523492,
             "url": "http://www.gnbsudameris.com.co",
