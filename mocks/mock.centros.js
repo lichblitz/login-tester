@@ -6,7 +6,7 @@ module.exports = {
             "address": "Calle 5 No. 17 - 96",
             "city": "aguachica",
             "latitude": "8.309739",
-            "reserve_name": "CE AGUACHICA",
+            "reserve_name": "CE AGUACHICA 2",
             "id_ce": "1",
             "contact": "",
             "modifiedDate": "Fri Feb 09 07:39:20 COT 2018",
