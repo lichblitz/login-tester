@@ -2,7 +2,7 @@ module.exports = {
     "status": 200,
     "result": [
         {
-            "nombre_empresa": 'Movistar Morato Suba',
+            "nombre_empresa": 'Movistar Morato Suba 1',
             "nit": '573531288-3',
             "numero_telefono": '',
             "perfil": 'A'
