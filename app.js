@@ -4,6 +4,7 @@ const login = require('./routes/login');
 const perfil = require('./routes/perfil');
 const centros = require('./routes/centros');
 const puntos = require('./routes/puntos');
+const cuentas = require('./routes/cuentas');
 const cors = require('cors')
 
 
@@ -35,6 +36,7 @@ app.use('/login', bodyParser.json(), login);
 app.use('/perfil', bodyParser.json(), perfil);
 app.use('/centros', bodyParser.json(), centros);
 app.use('/puntos-pago', bodyParser.json(), puntos);
+app.use('/cuentas', bodyParser.json(), cuentas);
 
 
 
