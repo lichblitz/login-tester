@@ -26,7 +26,7 @@ router.post('/', function (req, res) {
 
     const fire200 = Math.floor(Math.random() * 10) + 1 > 3;
 
-    const cuentas = mocks.shuffle(mocks.cuentas).slice(0, Math.floor(Math.random() * 150));
+    const cuentas =  mocks.shuffle(mocks.cuentas).slice(0, Math.floor(Math.random() * 50));
 
     if (!!cuentas && fire200) {
 
@@ -36,11 +36,12 @@ router.post('/', function (req, res) {
         resData.status = 200;
         resData.cuentas = cuentas.map((cuenta) => {
             return {
-                cuenta: cuenta.cuenta,
+                cuenta: cuenta.numero,
                 total_prepago: cuenta.total_prepago,
                 total_postpago: cuenta.total_postpago
             };
         });
+        // resData.cuentas = cuentas;
         resData.telefono = body.telefono;
         resData.request = body;
 
@@ -51,10 +52,6 @@ router.post('/', function (req, res) {
         resData.request = body;
 
     }
-
-
-    console.log("resdata", resData);
-
     res.json(resData);
 
 
@@ -64,7 +61,6 @@ router.post('/lineas', function (req, res) {
 
     const body = req.body;
     const cuentas = mocks.cuentas;
-    const lineas = mocks.lineas;
 
     let resData = {};
 
@@ -84,7 +80,7 @@ router.post('/lineas', function (req, res) {
     }
 
     let cuenta = cuentas.find((cuenta) => {
-        if (cuenta.cuenta === body.cuenta) {
+        if (cuenta.numero === body.cuenta) {
             return cuenta;
         }
     });
