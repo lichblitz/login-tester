@@ -1919,8 +1919,8 @@ const cuentas =  [
     },
     {
         "numero": "74924039",
-        "total_prepago": 4,
-        "total_postpago": 24,
+        "total_prepago": 10,
+        "total_postpago": 30,
         "corte": 9,
         "facturacion": {
             "email": "89py4lewj3lr7sk@mail.com",
@@ -2833,7 +2833,7 @@ const cuentas =  [
                 "tipo": "prepago",
                 "numero": "3186197647",
                 "cuenta": "74924039",
-                "consumo": 53.35049489775323
+                "consumo": 100
             },
             {
                 "tipo": "prepago",
