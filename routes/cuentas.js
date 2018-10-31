@@ -27,7 +27,8 @@ router.post('/', function (req, res) {
     const fire200 = Math.floor(Math.random() * 10) + 1 > 2;
 
     //const cuentas =  mocks.shuffle(mocks.cuentas).slice(0, Math.floor(Math.random() * 50));
-    const cuentas =  mocks.cuentas.slice(1, 20);
+    const cuentas =  mocks.cuentas.slice(0, 14);
+    //const cuentas = mocks.getCuentas(20);
 
     if (!!cuentas && fire200) {
 
@@ -42,7 +43,7 @@ router.post('/', function (req, res) {
                 total_postpago: cuenta.total_postpago
             };
         });
-        // resData.cuentas = cuentas;
+        //resData.cuentas = cuentas;
         resData.telefono = body.telefono;
         resData.request = body;
 
@@ -96,8 +97,12 @@ router.post('/lineas', function (req, res) {
         resData.cuenta = cuenta.cuenta;
         resData.total_postpago = cuenta.total_postpago;
         resData.total_prepago = cuenta.total_prepago;
-        resData.lineas_postpago = cuenta.lineas_postpago;
-        resData.lineas_prepago = cuenta.lineas_prepago;
+        resData.lineas_postpago = cuenta.lineas_postpago.map((linea)=>{
+            return linea.numero;
+        });
+        resData.lineas_prepago = cuenta.lineas_prepago.map((linea)=>{
+            return linea.numero;
+        });;
 
     } else {
         res.statusCode = 404;
