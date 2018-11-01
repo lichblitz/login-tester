@@ -4,7 +4,9 @@ const router = express.Router();
 
 router.post('/', function (req, res) {
 
+
     const body = req.body;
+    console.log(body);
     let resData = {};
 
     if (!req.body.telefono || req.body.telefono === '') {
@@ -26,8 +28,8 @@ router.post('/', function (req, res) {
 
     const fire200 = Math.floor(Math.random() * 10) + 1 > 2;
 
-    //const cuentas =  mocks.shuffle(mocks.cuentas).slice(0, Math.floor(Math.random() * 50));
-    const cuentas =  mocks.cuentas.slice(0, 14);
+    const cuentas =  mocks.shuffle(mocks.cuentas).slice(0, Math.floor(Math.random() * 20));
+    //const cuentas = mocks.cuentas.slice(0, 14);
     //const cuentas = mocks.getCuentas(20);
 
     if (!!cuentas && fire200) {
@@ -39,6 +41,8 @@ router.post('/', function (req, res) {
         resData.cuentas = cuentas.map((cuenta) => {
             return {
                 cuenta: cuenta.numero,
+                corte: cuenta.corte,
+                facturacion: cuenta.facturacion,
                 total_prepago: cuenta.total_prepago,
                 total_postpago: cuenta.total_postpago
             };
@@ -97,10 +101,10 @@ router.post('/lineas', function (req, res) {
         resData.cuenta = cuenta.cuenta;
         resData.total_postpago = cuenta.total_postpago;
         resData.total_prepago = cuenta.total_prepago;
-        resData.lineas_postpago = cuenta.lineas_postpago.map((linea)=>{
+        resData.lineas_postpago = cuenta.lineas_postpago.map((linea) => {
             return linea.numero;
         });
-        resData.lineas_prepago = cuenta.lineas_prepago.map((linea)=>{
+        resData.lineas_prepago = cuenta.lineas_prepago.map((linea) => {
             return linea.numero;
         });;
 
