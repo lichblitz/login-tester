@@ -40,7 +40,7 @@ router.post('/', function (req, res) {
         resData.status = 200;
         resData.cuentas = cuentas.map((cuenta) => {
             return {
-                cuenta: cuenta.numero,
+                numero: cuenta.numero,
                 corte: cuenta.corte,
                 facturacion: cuenta.facturacion,
                 total_prepago: cuenta.total_prepago,
