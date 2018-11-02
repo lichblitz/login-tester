@@ -28,7 +28,7 @@ router.post('/', function (req, res) {
 
     const fire200 = Math.floor(Math.random() * 10) + 1 > 2;
 
-    const cuentas =  mocks.shuffle(mocks.cuentas).slice(0, Math.floor(Math.random() * 20));
+    const cuentas =  mocks.shuffle(mocks.cuentas).slice(0, Math.floor(Math.random() * 20) + 1);
     //const cuentas = mocks.cuentas.slice(0, 14);
     //const cuentas = mocks.getCuentas(20);
 
