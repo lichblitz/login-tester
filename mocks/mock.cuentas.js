@@ -386,40 +386,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -490,7 +490,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -563,7 +563,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -635,39 +635,39 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -741,28 +741,28 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -836,34 +836,34 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -934,18 +934,18 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -1016,34 +1016,34 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -1116,17 +1116,17 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -1199,34 +1199,34 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -1297,18 +1297,18 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -1380,50 +1380,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -1495,24 +1495,24 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -1583,50 +1583,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -1700,51 +1700,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -1817,13 +1817,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -1897,30 +1897,30 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -1991,34 +1991,34 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -2089,45 +2089,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -2201,33 +2201,33 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -2299,12 +2299,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -2375,45 +2375,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -2485,24 +2485,24 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -2576,23 +2576,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -2663,7 +2663,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -2737,29 +2737,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -4476,19 +4476,19 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -4560,50 +4560,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -4675,19 +4675,19 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -4759,29 +4759,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -4855,23 +4855,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -4945,29 +4945,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -5041,36 +5041,36 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -5141,35 +5141,35 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -5240,28 +5240,28 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -5332,30 +5332,30 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -5426,12 +5426,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -5908,17 +5908,17 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -5989,7 +5989,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -6060,41 +6060,41 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -6167,19 +6167,19 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -6253,23 +6253,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -6342,29 +6342,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -6438,34 +6438,34 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -6537,23 +6537,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -6626,18 +6626,18 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -6711,51 +6711,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -6826,12 +6826,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -6903,29 +6903,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -6999,23 +6999,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -7087,19 +7087,19 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -7173,51 +7173,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -7288,30 +7288,30 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -9026,29 +9026,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -9121,28 +9121,28 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -9214,46 +9214,46 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -9326,12 +9326,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -9404,19 +9404,19 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -9489,23 +9489,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -9577,50 +9577,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -9694,7 +9694,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -9765,35 +9765,35 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -9865,29 +9865,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -9960,7 +9960,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -10032,13 +10032,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -10111,50 +10111,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -10228,51 +10228,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -10345,23 +10345,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -10435,27 +10435,27 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -10526,29 +10526,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -10619,40 +10619,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -10726,46 +10726,46 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -10838,23 +10838,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -12433,44 +12433,44 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -12544,24 +12544,24 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -12634,29 +12634,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -12729,30 +12729,30 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -12823,50 +12823,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -12940,29 +12940,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -13036,17 +13036,17 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -13118,28 +13118,28 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -13212,51 +13212,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -13329,24 +13329,24 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -13417,51 +13417,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -13534,23 +13534,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -13621,34 +13621,34 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -13721,40 +13721,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -13825,29 +13825,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -13918,29 +13918,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -14011,46 +14011,46 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -14123,30 +14123,30 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -16115,17 +16115,17 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -16197,29 +16197,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -16291,33 +16291,33 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -16389,18 +16389,18 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -16474,30 +16474,30 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -16569,46 +16569,46 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -16681,18 +16681,18 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -16765,40 +16765,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -16871,35 +16871,35 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -16970,40 +16970,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -17075,7 +17075,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -17146,12 +17146,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -17225,13 +17225,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -17302,46 +17302,46 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -17414,7 +17414,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -17485,25 +17485,25 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -17574,24 +17574,24 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -17663,45 +17663,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -17774,24 +17774,24 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -17862,13 +17862,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -17941,13 +17941,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -18018,51 +18018,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -18135,51 +18135,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -18252,40 +18252,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -18356,45 +18356,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -18468,18 +18468,18 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -18550,29 +18550,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -18855,24 +18855,24 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -18945,51 +18945,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -19062,29 +19062,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -19155,30 +19155,30 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -19251,39 +19251,39 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -19356,45 +19356,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -19468,46 +19468,46 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -19580,7 +19580,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -19652,50 +19652,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -19767,7 +19767,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -19838,29 +19838,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -19931,29 +19931,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -20024,45 +20024,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -20405,22 +20405,22 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -20491,13 +20491,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -20570,29 +20570,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -20663,18 +20663,18 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -20747,13 +20747,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -20824,45 +20824,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -20934,18 +20934,18 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -21018,24 +21018,24 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -21106,44 +21106,44 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -21217,39 +21217,39 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -21321,51 +21321,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -21436,19 +21436,19 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -21519,45 +21519,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -21964,7 +21964,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -22037,28 +22037,28 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -22132,29 +22132,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -22225,50 +22225,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -22342,40 +22342,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -22446,39 +22446,39 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -22550,17 +22550,17 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -22634,27 +22634,27 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -22728,7 +22728,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -22801,34 +22801,34 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -22899,29 +22899,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -22993,39 +22993,39 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -23097,40 +23097,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -23201,13 +23201,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -23278,45 +23278,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -23389,34 +23389,34 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -23487,44 +23487,44 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -23596,35 +23596,35 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -23698,33 +23698,33 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -23796,28 +23796,28 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -23889,51 +23889,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -24006,35 +24006,35 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -24107,23 +24107,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -24196,22 +24196,22 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -24283,50 +24283,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -24398,50 +24398,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -24515,41 +24515,41 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -25474,13 +25474,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -25554,12 +25554,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -25632,17 +25632,17 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -25713,50 +25713,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -25828,18 +25828,18 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -25912,45 +25912,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -26022,13 +26022,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -26101,18 +26101,18 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -26186,35 +26186,35 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -26287,28 +26287,28 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -26380,34 +26380,34 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -28234,7 +28234,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -28308,30 +28308,30 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -28404,29 +28404,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -28497,18 +28497,18 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -28581,23 +28581,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -28671,7 +28671,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -28743,50 +28743,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -28860,45 +28860,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -28969,7 +28969,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -29040,51 +29040,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -29155,38 +29155,38 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -29260,12 +29260,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -29336,7 +29336,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -29407,40 +29407,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -30953,12 +30953,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -31032,24 +31032,24 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -31120,22 +31120,22 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -33111,50 +33111,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -33228,50 +33228,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -33343,29 +33343,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -33438,40 +33438,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -33545,18 +33545,18 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -33627,19 +33627,19 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -33710,45 +33710,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -33822,33 +33822,33 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -33919,7 +33919,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -33993,12 +33993,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -34069,51 +34069,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -34186,7 +34186,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -34258,7 +34258,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -34330,13 +34330,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -34408,29 +34408,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -34502,13 +34502,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -34582,12 +34582,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -34660,29 +34660,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -34755,44 +34755,44 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -34866,46 +34866,46 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -34976,29 +34976,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -35070,51 +35070,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -35185,7 +35185,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -35859,7 +35859,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -35931,28 +35931,28 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -36025,45 +36025,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -36134,22 +36134,22 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -36223,24 +36223,24 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -37633,39 +37633,39 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -37738,7 +37738,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -37809,44 +37809,44 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -37920,22 +37920,22 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -38006,22 +38006,22 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -38094,22 +38094,22 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -38183,13 +38183,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -38262,34 +38262,34 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -38362,19 +38362,19 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -38448,18 +38448,18 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -38531,51 +38531,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -38646,33 +38646,33 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -38745,40 +38745,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -38849,33 +38849,33 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -38947,29 +38947,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -39043,7 +39043,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -39114,12 +39114,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -39190,51 +39190,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -39305,45 +39305,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -39415,40 +39415,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -39521,39 +39521,39 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -39624,50 +39624,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -39741,23 +39741,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -40297,33 +40297,33 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -40397,12 +40397,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -40475,45 +40475,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -40584,51 +40584,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -40699,33 +40699,33 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -40797,45 +40797,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -40909,51 +40909,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -41024,28 +41024,28 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -41117,23 +41117,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -41207,24 +41207,24 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -41297,24 +41297,24 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -41387,51 +41387,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -41502,17 +41502,17 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -41583,44 +41583,44 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -41692,39 +41692,39 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -41798,28 +41798,28 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -41891,12 +41891,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -41969,45 +41969,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -42078,50 +42078,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -42193,12 +42193,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -42272,12 +42272,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -42349,40 +42349,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -42455,40 +42455,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -42561,13 +42561,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -42638,12 +42638,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -42716,29 +42716,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -42809,7 +42809,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -42880,18 +42880,18 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -43955,34 +43955,34 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -44054,12 +44054,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -44132,19 +44132,19 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -44217,29 +44217,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -44310,51 +44310,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -44427,34 +44427,34 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -44528,35 +44528,35 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -44627,51 +44627,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -44744,22 +44744,22 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -44831,35 +44831,35 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -44932,29 +44932,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -45027,50 +45027,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -45142,34 +45142,34 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -45241,46 +45241,46 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -45353,12 +45353,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -45431,25 +45431,25 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -45522,40 +45522,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -45628,40 +45628,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -45733,12 +45733,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -45809,7 +45809,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -45883,51 +45883,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -46000,50 +46000,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -46117,24 +46117,24 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -46206,7 +46206,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -46277,33 +46277,33 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -46377,40 +46377,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -46481,23 +46481,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -46568,7 +46568,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -46652,50 +46652,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -46769,7 +46769,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -46840,18 +46840,18 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -46923,7 +46923,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -46995,35 +46995,35 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -47096,22 +47096,22 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -47182,23 +47182,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -47269,34 +47269,34 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -47369,7 +47369,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -47440,39 +47440,39 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -47546,7 +47546,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -47617,13 +47617,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -49072,23 +49072,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -49159,23 +49159,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -49247,18 +49247,18 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -49331,28 +49331,28 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -49426,35 +49426,35 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -49525,19 +49525,19 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -49610,13 +49610,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -49687,35 +49687,35 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -49786,29 +49786,29 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -49882,35 +49882,35 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -49983,50 +49983,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     }
@@ -50100,12 +50100,12 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -50177,23 +50177,23 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -50264,13 +50264,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -50341,36 +50341,36 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     }
                 ]
@@ -50441,40 +50441,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -50547,34 +50547,34 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -50648,24 +50648,24 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -50737,13 +50737,13 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -51414,35 +51414,35 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -51515,34 +51515,34 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -51615,45 +51615,45 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -51726,35 +51726,35 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -51827,24 +51827,24 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -51917,34 +51917,34 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     }
                 ]
@@ -52015,40 +52015,40 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     }
                 ]
@@ -52121,17 +52121,17 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -52203,7 +52203,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
@@ -52276,7 +52276,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     }
@@ -52350,24 +52350,24 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -52439,39 +52439,39 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     }
@@ -52545,50 +52545,50 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -52660,51 +52660,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -52777,18 +52777,18 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     }
@@ -52860,17 +52860,17 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     }
                 ]
@@ -52941,51 +52941,51 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "minutos",
-                        "comsumo": 3703,
+                        "consumo": 3703,
                         "capacidad": 5000
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 1,
+                        "consumo": 1,
                         "capacidad": 50,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 5,
+                        "consumo": 5,
                         "capacidad": 10,
                         "medida": "GB"
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 30,
+                        "consumo": 30,
                         "capacidad": 100,
                         "medida": "GB"
                     },
                     {
                         "tipo": "minutos",
-                        "comsumo": 283,
+                        "consumo": 283,
                         "capacidad": 1500
                     },
                     {
                         "tipo": "datos",
-                        "comsumo": 19,
+                        "consumo": 19,
                         "capacidad": 25,
                         "medida": "GB"
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 644,
+                        "consumo": 644,
                         "capacidad": 1000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 1108,
+                        "consumo": 1108,
                         "capacidad": 3000
                     },
                     {
                         "tipo": "sms",
-                        "comsumo": 396,
+                        "consumo": 396,
                         "capacidad": 500
                     }
                 ]
