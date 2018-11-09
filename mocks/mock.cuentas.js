@@ -379,15 +379,15 @@ const cuentas = [
                 },
                 "clausula": "2019-01-08T12:18:16.171Z",
                 "consumos": {
-                    "datos": 19,
-                    "sms": 477,
-                    "minutos": 742
+                    "datos": 11,
+                    "sms": 333,
+                    "minutos": 456
                 },
                 "bonos": [
                     {
-                        "tipo": "datos",
-                        "consumo": 19,
-                        "capacidad": 25,
+                        "tipo": "mensajes",
+                        "consumo": 1,
+                        "capacidad": 1,
                         "medida": "GB"
                     },
                     {
@@ -1897,7 +1897,7 @@ const cuentas = [
                 "bonos": [
                     {
                         "tipo": "datos",
-                        "consumo": 1,
+                        "consumo": 34,
                         "capacidad": 50,
                         "medida": "GB"
                     },
@@ -5091,7 +5091,7 @@ const cuentas = [
                     "servicios_incluidos": [
                         {
                             "tipo": "cloud",
-                            "capacidad": 10,
+                            "capacidad": 3,
                             "medida": "GB"
                         },
                         {
@@ -8160,7 +8160,7 @@ const cuentas = [
                 "clausula": "2019-06-18T08:19:56.262Z",
                 "consumos": {
                     "datos": 9,
-                    "sms": 55,
+                    "sms": 33,
                     "minutos": 668
                 }
             },
@@ -8289,7 +8289,7 @@ const cuentas = [
                 },
                 "clausula": "2020-01-11T01:05:56.222Z",
                 "consumos": {
-                    "datos": 9,
+                    "datos": 7,
                     "sms": 692,
                     "minutos": 870
                 }
@@ -8508,7 +8508,7 @@ const cuentas = [
                     "servicios_incluidos": [
                         {
                             "tipo": "cloud",
-                            "capacidad": 20,
+                            "capacidad": 10,
                             "medida": "GB"
                         },
                         {
@@ -10104,7 +10104,7 @@ const cuentas = [
                 },
                 "clausula": "",
                 "consumos": {
-                    "datos": 14,
+                    "datos": 24,
                     "sms": 599,
                     "minutos": 305
                 },
