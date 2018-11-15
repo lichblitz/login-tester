@@ -17,8 +17,7 @@ router.post('/', function (req, res) {
         resData = mocks[body.typeLogin][body.typeRequest];
     }
 
-    resData.request = body;
-    res.statusCode = resData.status;
+    res.statusCode =  200;
 
     console.log("resdata", resData);
 

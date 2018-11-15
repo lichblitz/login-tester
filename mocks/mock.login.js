@@ -1,15 +1,17 @@
 module.exports = {
     "TIME": {
-        "WSResult": {
-            "subscriberCode": "CC",
-            "phone": "3187160965",
-            "subscribedSituationCode": "AAA",
-            "suspendedState": "N",
-            "loginStatus": "exitoso",
-            "incidenceNumber:": "234567890",
-            "imei": "23456789012345",
-            "code": "0",
-            "message": "Login IVR"
+        "success": {
+            "WSResult": {
+                "subscriberCode": "CC",
+                "phone": "3187160965",
+                "subscribedSituationCode": "AAA",
+                "suspendedState": "N",
+                "loginStatus": "exitoso",
+                "incidenceNumber:": "234567890",
+                "imei": "23456789012345",
+                "code": "0",
+                "message": "Login IVR"
+            }
         },
         "failed_500": {
             "status": 500,
@@ -24,17 +26,19 @@ module.exports = {
             "message": "Clave bloqueada"
         }
     },
-    "IVR": {
-        "WSResult": {
-            "subscriberCode": "CC",
-            "phone": "3187160965",
-            "subscribedSituationCode": "AAA",
-            "suspendedState": "N",
-            "loginStatus": "exitoso",
-            "incidenceNumber:": "234567890",
-            "imei": "23456789012345",
-            "code": "0",
-            "message": "Login IVR"
+    "SELU": {
+        "success": {
+            "WSResult": {
+                "subscriberCode": "CC",
+                "phone": "3187160965",
+                "subscribedSituationCode": "AAA",
+                "suspendedState": "N",
+                "loginStatus": "exitoso",
+                "incidenceNumber:": "234567890",
+                "imei": "23456789012345",
+                "code": "0",
+                "message": "Login IVR"
+            }
         },
         "failed_500": {
             "status": 500,
