@@ -26,7 +26,7 @@ module.exports = {
             "message": "Clave bloqueada"
         }
     },
-    "SELU": {
+    "IVR": {
         "success": {
             "WSResult": {
                 "subscriberCode": "CC",
