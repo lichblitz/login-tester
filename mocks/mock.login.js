@@ -19,7 +19,7 @@ module.exports = {
             "message": "Clave bloqueada"
         }
     },
-    "SELU": {
+    "IVR": {
         "success": {
             "status": 200,
             "perfil": "B",
