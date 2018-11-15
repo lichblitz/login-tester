@@ -1,10 +1,15 @@
 module.exports = {
     "TIME": {
-        "success": {
-            "status": 200,
-            "perfil": "A",
-            "nit": "900800700-1",
-            "nombre_empresa": "Movistar TIME"
+        "WSResult": {
+            "subscriberCode": "CC",
+            "phone": "3187160965",
+            "subscribedSituationCode": "AAA",
+            "suspendedState": "N",
+            "loginStatus": "exitoso",
+            "incidenceNumber:": "234567890",
+            "imei": "23456789012345",
+            "code": "0",
+            "message": "Login IVR"
         },
         "failed_500": {
             "status": 500,
