@@ -28,9 +28,9 @@ router.post('/', function (req, res) {
 
     const fire200 = Math.floor(Math.random() * 10) + 1 > 2;
 
-    //const cuentas =  mocks.shuffle(mocks.cuentas).slice(0, Math.floor(Math.random() * 20) + 1);
-    const cuentas = mocks.cuentas.slice(0, 1);
-    //const cuentas = mocks.getCuentas(20);
+    const cuentas = mocks.shuffle(mocks.cuentas).slice(0, Math.floor(Math.random() * 20) + 1);
+    //const cuentas = mocks.cuentas.slice(0, 1);
+    // const cuentas = mocks.getCuentas(20);
 
     if (!!cuentas && fire200) {
 
@@ -42,9 +42,12 @@ router.post('/', function (req, res) {
             return {
                 numero: cuenta.numero,
                 corte: cuenta.corte,
+                saldo: cuenta.saldo,
+                fecha_limite: cuenta.fecha_limite,
                 facturacion: cuenta.facturacion,
                 total_prepago: cuenta.total_prepago,
-                total_postpago: cuenta.total_postpago
+                total_postpago: cuenta.total_postpago,
+
             };
         });
         //resData.cuentas = cuentas;
