@@ -1,5 +1,6 @@
 const express = require('express');
 const mocks = require('../mocks/mock.cuentas');
+const mocksFacturas = require('../mocks/mock.facturas');
 const router = express.Router();
 
 router.post('/', function (req, res) {
@@ -180,6 +181,103 @@ router.post('/linea', function (req, res) {
     }
 
     res.json(resData);
+});
+
+router.post('/facturas', function (req, res) {
+    //let facturas = mocksFacturas.getFacturas();
+    //console.log("facturas", facturas);
+
+    const body = req.body;
+    let resData = {};
+
+    if (!body.cuenta || body.cuenta === '') {
+        res.statusCode = 400;
+        resData.status = 400;
+        resData.message = 'Parámetros incorrectos';
+        resData.request = {
+            "cuenta": "required"
+        };
+
+        res.json(resData);
+
+        return;
+
+    }
+
+    const cuenta = body.cuenta;
+    console.log("cuenta", cuenta);
+
+    const facturasCuenta = mocksFacturas.facturas[cuenta];
+
+    res.statusCode = 200;
+
+    resData.message = "facturas encontradas";
+    resData.status = 200;
+    resData.facturas = facturasCuenta;
+
+
+    res.json(resData);
+});
+
+router.post('/factura', function (req, res) {
+    const body = req.body;
+    let resData = {};
+
+    if (!body.factura || body.factura === '') {
+        res.statusCode = 400;
+        resData.status = 400;
+        resData.message = 'Parámetros incorrectos';
+        resData.request = {
+            "factura": "required"
+        };
+
+        res.json(resData);
+
+        return;
+
+    }
+
+    const codigoFactura = body.factura;
+    console.log("codigoFactura", codigoFactura);
+
+    const facturas = mocksFacturas.facturas;
+
+
+    let allFacturas = [];
+    Object.values(facturas).map((fact) => {
+        allFacturas = [...allFacturas,...fact ];
+        
+    });
+
+    let factura = allFacturas.find((fact)=>{
+        if(fact.codigo == codigoFactura){
+            return fact;
+        }
+    })
+
+    console.log("facturaencontrada", factura);
+
+    if (factura !== null && !!factura) {
+        res.statusCode = 200;
+
+        resData.message = "factura encontradas";
+        resData.status = 200;
+
+        resData.factura = factura;
+
+        res.json(resData);
+    } else {
+        res.statusCode = 404;
+        resData.status = 404;
+        resData.message = 'factura no encontrada';
+
+        res.json(resData);
+    }
+
+
+
+
+
 });
 
 module.exports = router;
